@@ -1,2 +1,1 @@
-dotfiles
-========
+Configuration and tools for Windows/OS X
